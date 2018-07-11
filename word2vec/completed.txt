@@ -1,6 +1,5 @@
 తెలుగు
 19 వ శతాబ్దం
-Brahmic family
 అండమాన్ నికోబార్ దీవులు
 అధికార భాష
 అన్నమాచార్య
@@ -130,7 +129,6 @@ Brahmic family
 భారత దేశం
 భారతదేశం
 భాష మరణం
-భాషల జాబితా - మాతృభాషగా మాట్లాడే వారి సంఖ్యానుగుణంగా
 భాషా కుటుంబము
 భాషా నియంత్రణ సంస్థల జాబితా
 మండా
@@ -183,13 +181,6 @@ Brahmic family
 సుభద్ర
 హిందీ
 హిందీ భాష
-Central Hindi Directorate
-Central zone
-Devanagari script
-Hindustani language
-Indo-Aryan languages
-Indo-Iranian languages
-Western Hindi
 అరబిక్
 ఆంధ్ర ప్రదేశ్ హిందీ అకాడమీ
 ఆస్ట్రేలియా
@@ -220,9 +211,6 @@ Western Hindi
 దక్కని భాష
 పర్షియన్ భాష
 సంస్కృతం
-Romanization of Sanskrit
-Romanized
-Unicode
 అభిజ్ఞాన శాకుంతలం
 అర్థ శాస్త్రం
 ఆంథ్రప్రభ
@@ -282,7 +270,6 @@ Unicode
 హృదయము
 మధునాపంతుల సత్యనారాయణ శాస్త్రి
 హోలీ
-Open Directory Project
 అక్షయ తృతీయ
 అగ్నిదేవుడు
 అట్లతద్ది
@@ -470,12 +457,6 @@ Open Directory Project
 హోలిక
 హోలీక
 హోలీక దహన్
-'''ద్వైతాద్వైతం'''
-'''మధ్వం'''
-'''స్మార్తం'''
-Hinduism
-List of Hindu scriptures
-Portal:Hinduism
 అకార్పణ్యం
 అక్షయతృతీయ
 అగ్నాధేయం
@@ -666,8 +647,6 @@ Portal:Hinduism
 2004
 2009
 2014
-Indian rupee
-UTC+05:30
 అంజలి
 అండమాన్ నికోబార్ దీవులు
 అంధ్రప్రదేశ్ నగరాల మధ్య దూరం

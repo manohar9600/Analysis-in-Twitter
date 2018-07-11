@@ -4,7 +4,7 @@ import wikipedia
 import re
 from collections import defaultdict
 import copy
-wikipedia.set_lang('te')
+import json
 
 
 # functions
@@ -53,6 +53,7 @@ def tuneing_words():
 
 """ building telugu vocabulary """
 
+wikipedia.set_lang('te')
 head_title = 'ఆంధ్ర ప్రదేశ్'
 completed = []
 to_complete = []
@@ -95,7 +96,23 @@ process(f.read())
 f = open('Data/telugu_txts/stories.txt', 'r', encoding='utf-8')
 process(f.read())
 
-f = open('Data/telugu_txts/telugu_tweets.txt', 'r', encoding='utf-8')
+f = open('Data/telugu_txts/tweets.txt', 'r', encoding='utf-8')
 process(f.read())
 
-######
+""" saving vocabulary as a dictionary """
+
+f = open('Data/vocabulary.txt', 'r', encoding='utf-8')
+telugu_words = f.read().split()
+f.close()
+dict = {}
+i = 1
+
+for word in telugu_words:
+    dict[word] = i
+    i = i + 1
+
+# saving dict as json
+with open('Data/vocab.json', 'w', encoding='utf-8') as vocab_dict:
+    json.dump(dict, vocab_dict)
+
+
